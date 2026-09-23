@@ -1,0 +1,6 @@
+{
+  "name": "EZVOCA – Free AI Language Learning Platform",
+  "description": "Master English reading and vocabulary effortlessly with EZVOCA. 100% free AI text extractor, smart flashcards, adaptive reading tests, and personalized article feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
